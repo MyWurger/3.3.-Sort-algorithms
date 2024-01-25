@@ -1,0 +1,15 @@
+﻿  Constants.cpp
+  Promeg_functions.cpp
+D:\Проекты Visual studio\Sort Algorithms\Promeg_functions.cpp(109,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты Visual studio\Sort Algorithms\Promeg_functions.cpp(255,6): warning C4101: i: неиспользованная локальная переменная
+  Sort_podr.cpp
+D:\Проекты Visual studio\Sort Algorithms\Sort_podr.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Sort_ub.cpp
+D:\Проекты Visual studio\Sort Algorithms\Sort_ub.cpp(65,6): warning C4101: i: неиспользованная локальная переменная
+  Sort_vozr.cpp
+D:\Проекты Visual studio\Sort Algorithms\Sort_vozr.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Проекты Visual studio\Sort Algorithms\Sort_vozr.cpp(65,6): warning C4101: i: неиспользованная локальная переменная
+  Алгоритмы Сортировки.cpp
+  Создание кода...
+D:\Проекты Visual studio\Sort Algorithms\Promeg_functions.cpp(241): warning C4715: MENU: значение возвращается не при всех путях выполнения
+  Sort Algorithms.vcxproj -> D:\Проекты Visual studio\Sort Algorithms\x64\Debug\Sort Algorithms.exe
